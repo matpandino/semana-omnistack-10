@@ -6,7 +6,7 @@ Aplicação para encontrar devs próximos de acordo com tecnologia
 - NodeJS
 - Express
 
-## Web
+### Web
 - React
 
 ### Mobile 
